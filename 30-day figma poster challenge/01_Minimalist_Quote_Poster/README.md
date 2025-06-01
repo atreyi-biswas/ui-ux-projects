@@ -4,7 +4,7 @@
 June 1, 2025
 
 ## 🖼️ Prompt
-**Minimalist Typography Poster**
+**Minimalist Quote Poster**
 
 ## 📝 Description
 Today's challenge focused on creating a minimalist poster emphasizing typography.  
