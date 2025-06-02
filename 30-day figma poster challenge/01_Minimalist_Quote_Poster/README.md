@@ -17,7 +17,7 @@ This quote guided the theme of today’s poster. It’s a powerful reminder that
 
 ## 🛠️ Tools Used
 - Figma
-- Pinterest
+- Pinterest (Colour Scheme)
 - Image from Google
 
 ## ✨ Poster Text
