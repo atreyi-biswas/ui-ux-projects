@@ -1,6 +1,6 @@
 # 🎨 30-Day Figma-Only Poster Design Challenge
 
-This is my personal challenge to level up my design skills using **Figma**. For the next 30 days, I’ll be creating one poster a day based on different themes. The goal is to improve my sense of layout, typography, color, and overall visual storytelling—while building consistency and a portfolio of creative work.
+This is my personal challenge to level up my design skills using **Figma**. For 30 days, I’ll be creating one poster a day based on different themes. The goal is to improve my sense of layout, typography, color, and overall visual storytelling—while building consistency and a portfolio of creative work.
 
 ---
 
@@ -9,12 +9,14 @@ This is my personal challenge to level up my design skills using **Figma**. For 
 - **Figma** (browser or desktop)
 - **Google Fonts** (for type pairing)
 - **Coolors.co** (for palette inspiration, when needed)
+- **Chatgpt** (for topic ideas and imaginary event ideas)
 
 ---
 
 ## 🔁 How I’m Doing It
 
-- One poster a day for 30 days  
+- One poster a day for 30 days
+- Not necessarily done continuously  
 - No external design tools — just Figma  
 - Each design takes about 30–60 minutes  
 - I'm focusing on learning, not perfection  
@@ -22,9 +24,9 @@ This is my personal challenge to level up my design skills using **Figma**. For 
 
 ---
 
-## 🗓️ Weekly Breakdown
+## 🗓️ Topic Breakdown
 
-### Week 1 – Design Principles
+### Design Principles
 | Day | Prompt |
 |-----|--------|
 | 1 | Minimalist Quote Poster |
@@ -37,7 +39,7 @@ This is my personal challenge to level up my design skills using **Figma**. For 
 
 ---
 
-### Week 2 – Color & Branding
+### Color & Branding
 | Day | Prompt |
 |-----|--------|
 | 8 | Retro/Vintage Poster |
@@ -50,7 +52,7 @@ This is my personal challenge to level up my design skills using **Figma**. For 
 
 ---
 
-### Week 3 – Creative Exploration
+### Creative Exploration
 | Day | Prompt |
 |-----|--------|
 | 15 | Surreal/Abstract Poster |
@@ -63,7 +65,7 @@ This is my personal challenge to level up my design skills using **Figma**. For 
 
 ---
 
-### Week 4 – Branding, Motion & Polish
+### Branding, Motion & Polish
 | Day | Prompt |
 |-----|--------|
 | 22 | Fashion Poster |
