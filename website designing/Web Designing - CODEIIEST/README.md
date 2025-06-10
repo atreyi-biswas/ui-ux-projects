@@ -1,6 +1,6 @@
 # 🎨 Personal Productivity Dashboard – CodeIIEST Contest Submission
 
-This is my design submission for the **CodeIIEST Web Designing Contest**, organized by the Indian Institute of Engineering Science and Technology (IIEST) from **1 June 2025 - 15 June 2025**.
+This is my design submission for the **CodeIIEST Web Designing Contest**, organized by the **Indian Institute of Engineering Science and Technology (IIEST), Shibpur** from **1 June 2025 - 15 June 2025**.
 
 ---
 
