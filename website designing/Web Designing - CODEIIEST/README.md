@@ -22,7 +22,8 @@ The goal was to create a visually engaging and user-friendly dashboard to help u
 ## 📁 Project Contents
 
 - Screens include:
-  - Home 
+  - Log In page
+  - Home (Dashboard) 
   - Task List
   - Calendar / Daily Schedule
   - Pomodoro Timer / Focus Mode
