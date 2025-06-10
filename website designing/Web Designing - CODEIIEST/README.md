@@ -16,6 +16,7 @@ The goal was to create a visually engaging and user-friendly dashboard to help u
 - **Figma** (for designing the full dashboard UI)  
 - **Coolors** (for color palette generation)
 - **Google** (images)
+  *Every Picture used or took for reference is included in the *reference* folder.
   
 ---
 
