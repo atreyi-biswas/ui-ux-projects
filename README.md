@@ -11,7 +11,7 @@ I'm a B.Tech student in **Computer Science and Engineering** at **Indian Institu
 
 - **Figma** – UI design & prototyping (used mostly) 
 - **Canva** – Quick design layouts (used rarely)
-- - **BroCode** – Learning HTML and CSS from this YouTube channel    
+- **BroCode** – Learning HTML and CSS from this YouTube channel    
 
 ---
 
