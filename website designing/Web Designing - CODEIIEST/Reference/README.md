@@ -5,4 +5,9 @@ Every picture used or took for reference is included in this folder to ensure th
 - no plagirasm involved
 - some ideas are taken for inspiration/reference and are not copied anyhow
 
+  **Website reference:**
+  - https://studywithme.io/aesthetic-pomodoro-timer/
+  - https://pomofocus.io/
+  - https://www.tomatotimers.com/
+
 *"I would like to clarify that I am not accountable for any unintended resemblance between my work and existing content found online. I have made every reasonable effort to ensure the originality of my work and to avoid any form of duplication." *
