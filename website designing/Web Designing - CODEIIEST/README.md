@@ -37,7 +37,7 @@ The goal was to create a visually engaging and user-friendly dashboard to help u
 - 🏢 **Organizer:** CodeIIEST, IIEST Shibpur  
 - 🗓️ **Date:** 1 June - 15 June 2025  
 - 🧑‍💻 **Participation:** Solo  
-- 📄 **Status:** Working on it
+- 📄 **Status:** Completed
 
 ---
 
