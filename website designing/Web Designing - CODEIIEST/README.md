@@ -15,7 +15,7 @@ The goal was to create a visually engaging and user-friendly dashboard to help u
 
 - **Figma** (for designing the full dashboard UI)  
 - **Coolors** (for color palette generation)
-- **Chatgpt** (for final remarks on how to improve)
+- **Chatgpt** (for suggesting tasks for To-Do List & final remarks on how to improve)
 - **Google** (images)
 - **Removebg** (removal of background images)
   <br>*Every Picture used or took for reference is included in the *reference* folder.
