@@ -1,6 +1,8 @@
 # 🖼️ Day 3 – Grid-Based Poster  
 **Theme:** Gaming 
-
+---
+## 🗓️ Date
+June 3, 2025
 ---
 
 ## 🎯 Objective
