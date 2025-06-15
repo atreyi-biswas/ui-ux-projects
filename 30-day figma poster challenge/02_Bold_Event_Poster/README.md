@@ -1,6 +1,8 @@
 # 🖼️ Day 2 – Any Event Poster  
 **Theme:** *“Magical”*
-
+---
+## 🗓️ Date
+June 2, 2025
 ---
 
 ## 🎯 Objective
