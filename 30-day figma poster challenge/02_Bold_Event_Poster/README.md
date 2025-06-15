@@ -36,6 +36,11 @@ Once every 300 years, the twin moons of Avaloria—Lunaris and Noxil—align in 
 
 ---
 
+## Figma File
+[Click here to view the Figma file](https://www.figma.com/design/TyvM9KrAkCxM4BOlyUYJv1/Bold-Event-Poster?t=4eUaKx06ZnioGZ2M-1)
+
+---
+
 ## ✅ What I Focused On
 - Using scale and contrast to create emphasis.  
 - Making text readable from a distance.  
