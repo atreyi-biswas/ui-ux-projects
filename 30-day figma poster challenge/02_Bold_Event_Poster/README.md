@@ -1,19 +1,21 @@
-# 🖼️ Day 2 – Bold Event Poster  
-**Theme:** *“Bold” – Making Statements that Stand Out*
+# 🖼️ Day 2 – Any Event Poster  
+**Theme:** *“Magical”*
 
 ---
 
 ## 🎯 Objective
-Design a striking **event poster** that captures attention using bold typography, high contrast, and strong visual hierarchy. The goal is to communicate event details clearly while leaving a powerful visual impact.
+The aim was to create a poster that instantly immerses the viewer in a magical world — something that feels like a portal to an unforgettable night of wonder, illusion, and spellbinding experiences.
 
 ---
 
 ## 🧠 Concept
-The poster embodies the **“Bold”** theme through:
-- Oversized, heavy-weight type  
-- Limited but high-contrast color palette  
-- Strong vertical or diagonal alignment  
-- Minimal yet impactful content layout
+The poster embodies the **“Magical”** theme through:
+- How to use **gradients and shadows** to create depth and glow effects  
+- How to build a **composition** that feels balanced and enchanting  
+- How to pick **fantasy-inspired fonts** and blend them for impact  
+- How to experiment with **components and constraints**, even for decorative elements  
+- And most importantly — how to **think creatively with limitations** and still bring imagination to life
+
 
 ---
 
@@ -37,13 +39,17 @@ Once every 300 years, the twin moons of Avaloria—Lunaris and Noxil—align in 
 ---
 
 ## Figma File
-[Click here to view the Figma file](https://www.figma.com/design/TyvM9KrAkCxM4BOlyUYJv1/Bold-Event-Poster?t=4eUaKx06ZnioGZ2M-1)
+[Click here to view the Figma file](https://www.figma.com/design/TyvM9KrAkCxM4BOlyUYJv1/Magical-Event-Poster?t=4eUaKx06ZnioGZ2M-1)
 
 ---
 
 ## ✅ What I Focused On
-- Using scale and contrast to create emphasis.  
-- Making text readable from a distance.  
+- Building a **dreamlike atmosphere** using glowing effects and layered backgrounds  
+- Blending **readability with fantasy** through careful font selection and visual hierarchy  
+- Using a **rich, magical color palette** (deep purples, silvers, gold accents)  
+- Adding **illustrative details** like runes, stars, moons, and enchanted forests  
+- Creating **visual flow and balance** so the viewer’s eye naturally moves across the design  
+- Ensuring it is **print-ready and web-friendly**, adaptable to various display formats 
 - Controling gradients and trying out figma features learnt.
 
 ---
