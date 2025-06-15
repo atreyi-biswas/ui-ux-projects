@@ -39,6 +39,10 @@ This quote guided the theme of today’s poster. It’s a powerful reminder that
 - **Option 1**: Black text on a white background (classic minimalist)
 - **Option 2**: Pastel background (e.g., soft orange, sky blue) with white or dark text
 
+## Figma File
+[Click here to view the Figma file](https://www.figma.com/design/QuSMeRYSdvjVHvDluflo0e/01_Minimalist_Quote_Poster?node-id=0-1&t=4eUaKx06ZnioGZ2M-1)  
+
+
 ## 🔍 Reflection
 This exercise helped me explore how powerful typography can be when treated with intention.  
 Minimal design puts every element under a spotlight — font, spacing, and alignment all matter. I learned that simplicity can make the message even more impactful.
