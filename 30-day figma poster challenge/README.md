@@ -30,7 +30,7 @@ This is my personal challenge to level up my design skills using **Figma**. For 
 | Day | Prompt |
 |-----|--------|
 | 1 | Minimalist Quote Poster |
-| 2 | Any Event Poster |
+| 2 | Any Event Poster (folder named as *bold event poster*) |
 | 3 | Grid-Based Poster |
 | 4 | Typography-Only Poster |
 | 5 | Magazine Cover Mockup |
