@@ -23,6 +23,11 @@ GRID Poster is a visually structured event poster design template based on a mod
 
 ---
 
+## Figma File
+[Click here to view the Figma file](https://www.figma.com/design/i0cnobjy0MhKdBWU7EES6H/Grid-based-poster?node-id=10-90&t=4eUaKx06ZnioGZ2M-1)
+
+---
+
 ## 📅 Event Details 
 **Title:** GRIDLOCK: Battle of the Realms  
 **Subtitle:** Quest, Gaming, Story  
