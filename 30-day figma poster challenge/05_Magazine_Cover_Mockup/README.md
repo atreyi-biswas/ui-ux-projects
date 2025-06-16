@@ -1,5 +1,5 @@
-# 🍽️ Day 4 – Food Magazine Poster  
-**Theme:** Food & Lifestyle  
+# 🍽️ Day 4 – Magazine Poster  
+**Theme:** Food  
 ---
 
 ## 📅 Date  
