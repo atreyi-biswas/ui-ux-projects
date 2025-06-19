@@ -35,7 +35,8 @@ While building this, I'm focusing on:
 - **Figma** (main design and prototyping tool)  
 - **Color & Typography theory** (for consistency and impact)  
 - **UI references** (from real product websites)
-- **Removebg** (for removing image background)  
+- **Removebg** (for removing image background)
+- **Google Images** (for product and brand images) 
 
 ---
 
