@@ -1,9 +1,9 @@
 # 🖼️ Day 2 – Any Event Poster  
 **Theme:** *“Magical”*
----
+
 ## 🗓️ Date
 June 2, 2025
----
+
 ## Figma File
 [Click here to view the Figma file](https://www.figma.com/design/TyvM9KrAkCxM4BOlyUYJv1/Magical-Event-Poster?t=4eUaKx06ZnioGZ2M-1)
 
