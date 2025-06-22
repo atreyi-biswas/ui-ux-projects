@@ -1,9 +1,13 @@
 # 🍽️ Day 4 – Magazine Poster  
 **Theme:** Food  
----
+
 
 ## 📅 Date  
 **June 16, 2025**
+
+
+## Figma File  
+[Click here to view the Figma file](https://www.figma.com/design/uKhpA8iwnxQ3kayThibpjE/Magazine-Cover-Mockup?node-id=0-1&t=bRXICF06acQHq8Lx-1) 
 
 ---
 
@@ -29,11 +33,6 @@ The goal was to evoke taste, warmth, and creativity at first glance.
 - **Google** – Image references  
 - **Removebg** – Background cleanup  
 - **ChatGPT** – Content generation & creative guidance  
-
----
-
-## Figma File  
-[Click here to view the Figma file](https://www.figma.com/design/uKhpA8iwnxQ3kayThibpjE/Magazine-Cover-Mockup?node-id=0-1&t=bRXICF06acQHq8Lx-1) 
 
 ---
 
