@@ -3,6 +3,9 @@
 ## 🗓️ Date
 June 1, 2025
 
+## Figma File
+[Click here to view the Figma file](https://www.figma.com/design/QuSMeRYSdvjVHvDluflo0e/01_Minimalist_Quote_Poster?node-id=0-1&t=4eUaKx06ZnioGZ2M-1)  
+
 ## 🖼️ Prompt
 **Minimalist Quote Poster**
 
@@ -38,9 +41,6 @@ This quote guided the theme of today’s poster. It’s a powerful reminder that
 ### Color Palette
 - **Option 1**: Black text on a white background (classic minimalist)
 - **Option 2**: Pastel background (e.g., soft orange, sky blue) with white or dark text
-
-## Figma File
-[Click here to view the Figma file](https://www.figma.com/design/QuSMeRYSdvjVHvDluflo0e/01_Minimalist_Quote_Poster?node-id=0-1&t=4eUaKx06ZnioGZ2M-1)  
 
 
 ## 🔍 Reflection
