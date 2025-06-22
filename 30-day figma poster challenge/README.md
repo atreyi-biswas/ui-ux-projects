@@ -42,7 +42,7 @@ This is my personal challenge to level up my design skills using **Figma**. For 
 ### Color & Branding
 | Day | Prompt |
 |-----|--------|
-| 8 | Retro/Vintage Poster |
+| 8 | Glassmorphism |
 | 9 | Product Launch Poster |
 | 10 | Festival Poster |
 | 11 | Typographic Hierarchy Poster |
