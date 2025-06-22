@@ -1,8 +1,12 @@
 # 🖼️ Day 3 – Grid-Based Poster  
 **Theme:** Gaming 
----
+
 ## 🗓️ Date
 June 3, 2025
+
+## Figma File
+[Click here to view the Figma file](https://www.figma.com/design/i0cnobjy0MhKdBWU7EES6H/Grid-based-poster?node-id=10-90&t=4eUaKx06ZnioGZ2M-1)
+
 ---
 
 ## 🎯 Objective
@@ -22,11 +26,6 @@ GRID Poster is a visually structured event poster design template based on a mod
 - **Chatgpt** - Imaginary Event generation
 - **Google** - Images
 - **Removebg** - To remove background
-
----
-
-## Figma File
-[Click here to view the Figma file](https://www.figma.com/design/i0cnobjy0MhKdBWU7EES6H/Grid-based-poster?node-id=10-90&t=4eUaKx06ZnioGZ2M-1)
 
 ---
 
