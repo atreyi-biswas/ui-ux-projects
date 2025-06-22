@@ -4,6 +4,10 @@
 ## 🗓️ Date
 June 2, 2025
 ---
+## Figma File
+[Click here to view the Figma file](https://www.figma.com/design/TyvM9KrAkCxM4BOlyUYJv1/Magical-Event-Poster?t=4eUaKx06ZnioGZ2M-1)
+
+---
 
 ## 🎯 Objective
 The aim was to create a poster that instantly immerses the viewer in a magical world — something that feels like a portal to an unforgettable night of wonder, illusion, and spellbinding experiences.
@@ -40,10 +44,6 @@ Once every 300 years, the twin moons of Avaloria—Lunaris and Noxil—align in 
 
 ---
 
-## Figma File
-[Click here to view the Figma file](https://www.figma.com/design/TyvM9KrAkCxM4BOlyUYJv1/Magical-Event-Poster?t=4eUaKx06ZnioGZ2M-1)
-
----
 
 ## ✅ What I Focused On
 - Building a **dreamlike atmosphere** using glowing effects and layered backgrounds  
