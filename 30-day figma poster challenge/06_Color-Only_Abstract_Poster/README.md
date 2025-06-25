@@ -1,10 +1,10 @@
 # 🎨 Day X – Colour-Only Abstract Poster: *"Emotion Through Hue"*
 
 ## 📅 Date  
-June 22, 2025
+June 25, 2025
 
 ## 🔗 Figma File  
-[🎨 View Design on Figma]()
+[🎨 View Design on Figma](https://www.figma.com/design/C8DiJyiFafUThbF9ZBams6/Colour-only-abstract-poster?node-id=0-1&t=2ZD95Qe2NglllVNw-1)
 
 ---
 
