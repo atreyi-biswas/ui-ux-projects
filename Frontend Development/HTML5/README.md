@@ -1,4 +1,4 @@
-# Projects from Bro Code HTML5 Tutorials
+# HTML5
 
 This repository contains various **frontend projects** I’m building to practice and apply what I’ve learned from the **Bro Code HTML5 & CSS tutorials**. Each project helps me reinforce core HTML5 concepts by creating real-world examples.
 
