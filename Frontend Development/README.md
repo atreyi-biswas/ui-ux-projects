@@ -11,12 +11,6 @@ A comprehensive repository showcasing core **frontend development** skills using
 - [Technologies Used](#technologies-used)
 - [Features](#features)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Challenges & Learnings](#challenges--learnings)
-- [Future Improvements](#future-improvements)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ---
 
