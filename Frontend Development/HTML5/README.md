@@ -14,7 +14,7 @@ Following Bro Code’s easy-to-understand lessons, I’m developing small projec
 - Responsive design basics
 - Accessibility improvements<br>
 <br>This hands-on approach helps me gain confidence and deepen my understanding of modern frontend development.
-Instead of updating my journey of learning each and every small detail, like most of my repositories, i am going to apply it all in one or two projects as a proof to myself that i am aware of the basics of HTML5. 
+<br>Instead of updating my journey of learning each and every small detail, like most of my repositories, i am going to apply it all in one or two projects as a proof to myself that i am aware of the basics of HTML5. 
 ---
 
 ## Project Structure
