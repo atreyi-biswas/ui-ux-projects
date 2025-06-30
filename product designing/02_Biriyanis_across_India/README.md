@@ -54,10 +54,13 @@ Explore the poster version of this project, designed in Figma:
 ## 🛠️ Tools Used
 
 - **Figma** – For poster design and layout  
-- **Markdown** – For structuring this documentation  
-- **Google Docs / Notion** – For research and content drafting  
-- **Font: Cactus Serif / Inter / Montserrat** – Typography styling  
+- **Google Images** –  For relevant project images
+- **Removebg** - For removal of image background
+- **Google Docs** – For research and content drafting  
+- **Chatgpt** – Content, Links  
 - **GitHub** – For version control and hosting the project
+
+*All reference materials and content draft present in the **Reference Folder**.*
 
 ---
 
