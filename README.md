@@ -1,4 +1,13 @@
 # 🎨 UI/UX Repository
+*"In design, my free will is the only blueprint I follow."*
+
+
+---
+
+⚠️ Disclaimer:
+This project may seem random, unexpected, or even a little crazy — and that's exactly the point. Creativity doesn’t always follow logic. Sometimes, the boldest ideas begin where the rules end.
+
+---
 
 This is a personal repository for storing and organizing my **UI/UX design work**, experiments, and resources.  
 I'm a B.Tech student in **Computer Science and Engineering** at **Indian Institute of Engineering Science and Technology (IIEST) Shibpur**, exploring user-centered design alongside development.
