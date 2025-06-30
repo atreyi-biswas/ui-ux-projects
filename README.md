@@ -38,7 +38,7 @@ This repo helps me:
 
 If you're also into UI/UX or have feedback to share, feel free to connect:
 
-- **Email**: atreyi.biswas@outlook.com  
+- **Email**: atreyib11@gmail.com  
 - **LinkedIn**: [your-linkedin-profile](https://linkedin.com/in/atreyi-biswas-02669a309)
 - **Dribble**: https://dribbble.com/gruesome12skull
 
