@@ -1,6 +1,6 @@
 # 🍛 Biriyanis Across India
 
-*I have initially put this under product designing repository*
+*I have initially put this under product designing repository : product designing/02_Biriyanis_across_India/README.md*
 
 Welcome to **Biriyanis Across India** – a flavorful documentation of the diverse and delicious biriyani styles from every Indian state and union territory.  
 This project celebrates regional spices, unique ingredients, and centuries-old culinary traditions that make each biriyani distinct.
