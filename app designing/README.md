@@ -52,6 +52,6 @@ This repository is **design-focused** and does not include development code. All
 
 Feel free to connect with me for collaboration, feedback, or design discussions!
 
-- 📧 Email: **atreyi.yourmail@example.com**  
+- 📧 Email: **atreyib11@gmail.com**  
 - 🐙 GitHub: [atreyi-biswas](https://github.com/atreyi-biswas)
 
