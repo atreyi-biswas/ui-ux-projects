@@ -36,6 +36,11 @@ This repo helps me:
 
 ---
 
+##📌 **Explore my journey into UI/UX design through this structured learning path:**  
+👉 [View My Learning Path](https://github.com/atreyi-biswas/General/tree/main)
+
+---
+
 ## 📬 Contact
 
 If you're also into UI/UX or have feedback to share, feel free to connect:
