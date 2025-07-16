@@ -1,4 +1,4 @@
-**REFERENCE FOLDER**
+## **REFERENCE FOLDER**
 
 Every picture used or took for reference is included in this folder to ensure that: 
 - idea is original
