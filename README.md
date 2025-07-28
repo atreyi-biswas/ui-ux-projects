@@ -19,10 +19,7 @@ I'm a B.Tech student in **Computer Science and Engineering** at **Indian Institu
 ## 🛠 Tools I Use
 
 - **Figma** – UI design & prototyping (used mostly) 
-- **Canva** – Quick design layouts (used rarely)
-- **VSCode**
-- **BroCode** – Learning HTML and CSS from this YouTube channel
-- **w3schools** - Practicing HTML and CSS    
+- **Canva** – Quick design layouts (used rarely)  
 
 ---
 
