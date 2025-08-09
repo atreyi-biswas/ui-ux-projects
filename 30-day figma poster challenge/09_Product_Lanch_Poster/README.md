@@ -26,9 +26,8 @@ The goal was to create a **futuristic, tech-driven product launch poster** that 
 
 The poster conveys the **“Futuristic & Adaptive”** theme through:
 
-* Using **neon gradients** and subtle glow effects to signal modernity and energy.
-* Creating depth with **layered shapes and shadows** to represent connectivity and immersion.
-* Selecting **sleek, modern sans-serif fonts** paired with futuristic accents for tech appeal.
+* Creating depth with **layered shapes and gradients** to represent connectivity and immersion.
+* Selecting **sleek, modern Montserrat fonts** paired with futuristic accents for tech appeal.
 * Designing a balanced composition with **floating elements** to mimic the feel of sound waves.
 * Incorporating **product renders** with dynamic lighting to make them appear alive and adaptive.
 
@@ -47,15 +46,6 @@ The poster conveys the **“Futuristic & Adaptive”** theme through:
 
 * **Product Name:** SkyBuds™
 * **Tagline:** *"Your mood. Your music. Your sky."*
-* **Launch Date:** November 15, 2025
-* **Modes:** Focus, Relax, Workout
-* **Special Feature:** Motion-powered charging case
-
----
-
-### 📜 Product Description
-
-SkyBuds™ are AI-powered wireless earbuds that **adapt your music to your mood in real-time**. Whether you’re in deep focus, relaxing, or working out, SkyBuds™ automatically shifts sound profiles to match your energy. With a **motion-powered charging case**, you’ll never run out of battery while living your life on the go.
 
 ---
 
