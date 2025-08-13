@@ -43,7 +43,7 @@ This project is a **UI/UX redesign** of the **Highway Delite** mobile app, creat
 
 ## 🖼️ Preview
   
-> Example: [🔗 View on Figma](https://www.figma.com/design/iJm2nwytih6mmErV7uR5Jp/Highway-Delite?node-id=1-55&t=kqlFvInamjuzvFV9-1)
+> [🔗 View on Figma](https://www.figma.com/design/iJm2nwytih6mmErV7uR5Jp/Highway-Delite?node-id=1-55&t=kqlFvInamjuzvFV9-1)
 
 ---
 
