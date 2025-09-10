@@ -45,7 +45,7 @@ This is my personal challenge to level up my design skills using **Figma**. For 
 | 8 | Glassmorphism |
 | 9 | Product Launch Poster |
 | 10 | Festival Poster |
-| 11 | Typographic Hierarchy Poster |
+| 11 | Cultural Event Poster |
 | 12 | Color Palette Poster |
 | 13 | Poster With Grid Overlay |
 | 14 | Movie Poster Redesign |
