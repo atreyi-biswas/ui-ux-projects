@@ -39,7 +39,9 @@ To conceptualize and design meaningful digital products through:
 
 ## ✅ Projects
 
-- ✅ **Almarai 34g Protein Shake Product Page Design**  
+- ✅ **Almarai 34g Protein Shake Product Page Design**
+- ✅**Biriyanis Across India**
+- ✅**Fanta**
 
 *(More coming soon!)*
 
