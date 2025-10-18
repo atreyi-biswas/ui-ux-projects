@@ -13,7 +13,7 @@
 ---
 
 ### 🎯 Objective  
-The goal of **Day 10** in the **30-Day Figma Challenge** was to create a **Festival Poster** that visually communicates celebration, energy, and joy through layout, color, and typography.  
+The goal of **Day 10** in the **30-Day Figma Challenge** was to create a **Festival Poster** for **Diwali** that visually communicates celebration, energy, and joy through layout, color, and typography.  
 The focus was on building a festive visual identity that feels both engaging and harmonious.  
 
 ---
