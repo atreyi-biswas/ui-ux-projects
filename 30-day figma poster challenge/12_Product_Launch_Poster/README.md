@@ -7,7 +7,7 @@ June 24, 2025
 ---
 
 ### 🔗 Figma File  
-[View Design on Figma](#)
+[View Design on Figma](#https://www.figma.com/design/tBEZfwSurLwaYWlLXE3AM1/Product-Launch-Poster?node-id=12-3&t=vWAPWPeKSDfMLeR0-1)
 
 ---
 
