@@ -33,7 +33,7 @@ Design a vibrant **Festival Poster** that captures the spirit of celebration thr
 
 ### 🛠️ Tools Used  
 - **Figma** – Layout & composition  
-- **Google / Unsplash** – Visual references  
-- **YouTube** – Poster inspiration  
+- **Google** – Visual references  
+- **ChatGPT** – Poster inspiration  
 
 
