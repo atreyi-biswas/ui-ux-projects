@@ -46,8 +46,8 @@ This is my personal challenge to level up my design skills using **Figma**. For 
 | 9 | Product Launch Poster |
 | 10 | Festival Poster |
 | 11 | Cultural Event Poster |
-| 12 | Color Palette Poster |
-| 13 | Poster With Grid Overlay |
+| 12 | Product Launch Poster |
+| 13 | Social Awareness Poster |
 | 14 | Movie Poster Redesign |
 
 ---
@@ -55,28 +55,28 @@ This is my personal challenge to level up my design skills using **Figma**. For 
 ### Creative Exploration
 | Day | Prompt |
 |-----|--------|
-| 15 | Surreal/Abstract Poster |
+| 15 | Anime Promotion Poster |
 | 16 | Travel Poster |
-| 17 | Typographic Portrait |
+| 17 | Music Album Poster |
 | 18 | Duotone Poster |
-| 19 | Music Album Poster |
-| 20 | Flat Illustration Poster |
-| 21 | 3D Effect Poster in Figma |
+| 19 | Festival Poster |
+| 20 | Fashion Poster |
+| 21 | Collage Style Poster |
 
 ---
 
 ### Branding, Motion & Polish
 | Day | Prompt |
 |-----|--------|
-| 22 | Fashion Poster |
-| 23 | Awareness Campaign Poster |
-| 24 | Magazine Feature Poster |
-| 25 | Animated Quote Poster (Smart Animate) |
-| 26 | Collage Style Poster |
-| 27 | Brand Poster (Ad Style) |
+| 22 |  |
+| 23 |  |
+| 24 |  |
+| 25 |  |
+| 26 |  |
+| 27 |  |
 | 28 | Data Visualization Poster |
-| 29 | Personal Identity Poster |
-| 30 | Refine & Share My Best Poster |
+| 29 |  |
+| 30 | Personal Identity Poster |
 
 ---
 
@@ -92,7 +92,7 @@ This is my personal challenge to level up my design skills using **Figma**. For 
 
 ## 🧠 Reminders to Myself
 
-- Don't overthink it — just make something each day  
+- Don't overthink it — just make something a day
 - Done is better than perfect  
 - Repetition is how I improve  
 - Save everything, even the bad drafts — they show progress  
