@@ -36,8 +36,8 @@ The focus was on building a festive visual identity that feels both engaging and
 
 ### 🛠️ Tools & Features Used  
 - **Figma** – Layout, typography, and color styling  
-- **Google** – References and textures  
-- **YouTube** – Poster composition inspiration  
+- **Google** – References and textures
+- **Removebg** - Background remover  
 
 ---
 
