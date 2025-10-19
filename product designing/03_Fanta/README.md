@@ -2,12 +2,12 @@
 ---
 
 ### 📅 Date  
-**October 14, 2025**
+**[Add the date you designed it]**
 
 ---
 
 ### 🔗 Figma File  
-[**View Design on Figma**](#https://www.figma.com/design/enwq84Z80buqGS4vT6xZRN/Fanta?t=1cNbyJqiBUCxwhu8-1) 
+🔗 [View Design on Figma](https://www.figma.com/design/enwq84Z80buqGS4vT6xZRN/Fanta?t=1cNbyJqiBUCxwhu8-1)
 
 ---
 
@@ -38,5 +38,6 @@ The visual direction focuses on expressing **fun, freshness, and flavor**, align
 ---
 
 ### 📸 Outcome  
-A bright and engaging **Fanta product design concept** that celebrates color and creativity.
+A bright and engaging **Fanta product design concept** that celebrates color, creativity, and brand storytelling.
+
 
