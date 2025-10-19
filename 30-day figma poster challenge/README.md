@@ -16,7 +16,8 @@ This is my personal challenge to level up my design skills using **Figma**. For 
 ## 🔁 How I’m Doing It
 
 - One poster a day for 30 days
-- Not necessarily done continuously  
+- Not necessarily done continuously everyday
+- Not necessarily done topics assigned for each day(Few topics are exchanged here and there) 
 - No external design tools — just Figma  
 - Each design takes about 30–60 minutes  
 - I'm focusing on learning, not perfection  
