@@ -2,7 +2,7 @@
 **Day 10 – 30-Day Figma Challenge** 
 ---
 ## 📅 Date
-June 24, 2025  
+October 18, 2025  
 
 ---
 
