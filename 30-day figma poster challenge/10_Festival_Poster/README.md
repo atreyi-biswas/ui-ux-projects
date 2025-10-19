@@ -8,7 +8,7 @@
 ---
 
 ### 🔗 Figma File  
-[**View Design on Figma**](#https://www.figma.com/design/C3a71zqzVbOVsLmUW60jlD/Diwali-Poster?node-id=0-1&t=1cNbyJqiBUCxwhu8-1)  
+🔗 [View Design on Figma](https://www.figma.com/design/C3a71zqzVbOVsLmUW60jlD/Diwali-Poster?m=auto&t=1cNbyJqiBUCxwhu8-1)
 
 ---
 
