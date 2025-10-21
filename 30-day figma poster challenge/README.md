@@ -27,7 +27,6 @@ This is my personal challenge to level up my design skills using **Figma**. For 
 
 ## 🗓️ Topic Breakdown
 
-### Design Principles
 | Day | Prompt |
 |-----|--------|
 | 1 | Minimalist Quote Poster |
@@ -40,7 +39,6 @@ This is my personal challenge to level up my design skills using **Figma**. For 
 
 ---
 
-### Color & Branding
 | Day | Prompt |
 |-----|--------|
 | 8 | Glassmorphism |
@@ -53,7 +51,6 @@ This is my personal challenge to level up my design skills using **Figma**. For 
 
 ---
 
-### Creative Exploration
 | Day | Prompt |
 |-----|--------|
 | 15 | Anime Promotion Poster |
@@ -66,7 +63,6 @@ This is my personal challenge to level up my design skills using **Figma**. For 
 
 ---
 
-### Branding, Motion & Polish
 | Day | Prompt |
 |-----|--------|
 | 22 |  |
