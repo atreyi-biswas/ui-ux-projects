@@ -6,7 +6,7 @@ June 26, 2025
 ---
 
 ## 🔗 Figma File  
-[🔍 View Design on Figma](#https://www.figma.com/design/g8LaZ2JiZyqTlUPZcwtyHY/Womwn-Empowerment?node-id=0-1&t=rdFHZ6z7Nt2cX3Lu-1)  
+[🔍 View Design on Figma](https://www.figma.com/design/g8LaZ2JiZyqTlUPZcwtyHY/Womwn-Empowerment?node-id=0-1&t=rdFHZ6z7Nt2cX3Lu-1)  
 
 ---
 
