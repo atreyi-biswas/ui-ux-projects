@@ -18,8 +18,7 @@ I'm a B.Tech student in **Computer Science and Engineering** at **Indian Institu
 
 ## 🛠 Tools I Use
 
-- **Figma** – UI design & prototyping (used mostly) 
-- **Canva** – Quick design layouts (used rarely)  
+- **Figma** – UI design & prototyping
 
 ---
 
